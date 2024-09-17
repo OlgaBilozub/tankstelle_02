@@ -1,0 +1,1 @@
+[{"id":1,"title":"Diesel","price":5.77,"active":true},{"id":2,"title":"AИ-76","price":5.77,"active":true},{"id":3,"title":"AИ-80","price":6.5,"active":true},{"id":5,"title":"AИ-98","price":4.1,"active":true}]
